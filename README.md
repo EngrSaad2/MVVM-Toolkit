@@ -8,7 +8,7 @@ Facebook: https://www.facebook.com/raselhasandurjoy<br>
 Company WEB: https://triangeltech.com/ <br>
 Phone: +8801904654712<br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/Android-TV-Live-Stream)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=102)](https://github.com/raselhasandurjoy/MVVM-Toolkit)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--MVVMLight-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/3737)
@@ -25,8 +25,6 @@ requires at least android gradle plugin 1.5.0.
 
 ##Usage##
 ---
-####中文文档：[MVVM Light Toolkit使用指南](http://www.jianshu.com/p/43ea7a531700)####
-####引申阅读：[如何构建Android MVVM应用程序](http://www.jianshu.com/p/2fc41a310f79)####
 
 ###Data Binding###
 
