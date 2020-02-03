@@ -1,7 +1,7 @@
 # MVVM Light Toolkit
 ---
 
-Developer: <b>SAAD</b> <br>
+<b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
 LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
 Facebook: https://www.facebook.com/raselhasandurjoy<br>
